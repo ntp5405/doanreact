@@ -1,0 +1,22 @@
+.user {
+    background-color: none;
+}
+
+.txt {
+    font-size: 30px;
+    color: orange;
+}
+
+.profile {
+    padding: 30px;
+    color: orangered;
+}
+
+.profileform {
+    padding: 50px;
+    padding-top: 50px;
+}
+
+.formgroup {
+    font-size: 50px;
+}
